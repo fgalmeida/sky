@@ -4,9 +4,9 @@
 ![SKY PREVIEW](https://github.com/fgalmeida/sky/blob/main/github/screenshot.png)
 ![SKY PREVIEW](https://github.com/fgalmeida/sky/blob/main/github/screenshot-2.png)
  
-![badge](https://img.shields.io/github/issues/fgalmeida/sky)
-![badge](https://img.shields.io/github/forks/fgalmeida/sky)
-![badge](https://img.shields.io/github/stars/fgalmeida/sky)<space><space>
+![badge](https://img.shields.io/github/issues-raw/fgalmeida/sky?style=flat-square)
+![badge](https://img.shields.io/github/forks/fgalmeida/sky?style=social)
+![badge](https://img.shields.io/github/stars/fgalmeida/sky?style=social)<space><space>
  
 ## Steps
 
