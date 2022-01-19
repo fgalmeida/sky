@@ -1,8 +1,8 @@
 # Sky - A powershell theme 
 
 
-![SKY PREVIEW](https://user-images.githubusercontent.com/69732000/146661494-f046ca6c-824a-4acd-8d04-c97de085f78d.gif)
-![SKY PREVIEW](https://user-images.githubusercontent.com/69732000/146661494-f046ca6c-824a-4acd-8d04-c97de085f78d.gif)
+![SKY PREVIEW](https://github.com/fgalmeida/sky/blob/main/github/screenshot.png)
+![SKY PREVIEW](https://github.com/fgalmeida/sky/blob/main/github/screenshot-2.png)
  
 ![badge](https://img.shields.io/github/issues/fgalmeida/sky)
 ![badge](https://img.shields.io/github/forks/fgalmeida/sky)
