@@ -3,6 +3,7 @@
 
 ![SKY PREVIEW](https://github.com/fgalmeida/sky/blob/main/github/screenshot.png)
 ![SKY PREVIEW](https://github.com/fgalmeida/sky/blob/main/github/screenshot-2.png)
+![SKY PREVIEW](https://github.com/fgalmeida/sky/blob/main/github/sky.png)
  
 ![badge](https://img.shields.io/github/issues-raw/fgalmeida/sky?style=flat-square)
 ![badge](https://img.shields.io/github/forks/fgalmeida/sky?style=social)
