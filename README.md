@@ -10,21 +10,19 @@
  
 ## Steps
 
-1. Install `oh-my-posh` - `Install-Module posh-git -Scope CurrentUser` and `Install-Module oh-my-posh -Scope CurrentUser`
+1. Install `oh-my-posh` - `Set-ExecutionPolicy Bypass -Scope Process -Force; Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://ohmyposh.dev/install.ps1'))`
 
-2. Open up the file `$profile` in your text editor of choice (VScode: `code $profile`, Notepad: `notepad $profile`)
+2. Run `curl https://raw.githubusercontent.com/fgalmeida/sky/master/sky.omp.json --output sky.omp.json` (assuming `curl` is installed on your system)
 
-3. Add these lines: 
+3. Run `Copy-Item -Path sky.omp.json -Destination $HOME`
+
+4. Open up the file `$profile` in your text editor of choice (VScode: `code $profile`, Notepad: `notepad $profile`)
+
+5. Add these lines: 
 
 ```powershell
-Import-Module posh-git
-Import-Module oh-my-posh
-Set-PoshPrompt ~/sky.omp.json
+oh-my-posh init pwsh --config ~/sky.omp.json | Invoke-Expression
 ```
-
-5. Run `curl https://raw.githubusercontent.com/fgalmeida/sky/master/sky.omp.json --output sky.omp.json` (assuming `curl` is installed on your system)
-
-6. Run `Copy-Item -Path sky.omp.json -Destination $HOME`
 
 7. Restart terminal and you should see a pretty prompt!
 
